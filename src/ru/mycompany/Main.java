@@ -32,6 +32,7 @@ public class Main {
                 y = Integer.parseInt(array[2]);
                 System.out.println(result(array[1], x, y));
             }
+
         }
     }
 
